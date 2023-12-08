@@ -1,4 +1,4 @@
-### 저의 프로필에 들어오신것을 환영합니다.👋
+### Welcome to my Profile.👋
 
 
 **Leejungs/Leejungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
