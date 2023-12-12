@@ -36,4 +36,4 @@
 <img src="https://img.shields.io/badge/GNU Bash-gray?style=flat&logo=GNU Bash&logoColor=4EAA25"/>
 
 ### <h2>My GitHub information</h2> 
-![Leejungs GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejungs&show_icons=true&theme=slateorange)
+![Leejungdadasdass GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejungs&show_icons=true&theme=slateorange)
