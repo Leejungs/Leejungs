@@ -14,5 +14,8 @@
 
 ### SNS
 [![텍스트](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/lee_jsooo/)
+<a href="https://www.instagram.com/lee_jsooo/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="텍스트" width="200" height="200">
+</a>
 
 
