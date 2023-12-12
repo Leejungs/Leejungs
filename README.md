@@ -1,4 +1,4 @@
-![image](https://github.com/Leejungs/Leejungs/assets/127173567/3d9f9eff-07ac-41ae-8d73-32893f7dd4fe)### <h2>정수 프로필에 오신 것을 환영합니다.👋</h2>
+### <h2>정수 프로필에 오신 것을 환영합니다.👋</h2>
 
 
 ### 자기소개
@@ -15,5 +15,5 @@
 ### 프로게이머
 [이미지 이름]([이미지Url](https://www.instagram.com/lee_jsooo/)https://www.instagram.com/lee_jsooo/)
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
-
+<img src="이미지 URL" width="30%" height="30%">
 
