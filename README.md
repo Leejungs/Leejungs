@@ -15,6 +15,10 @@
 ### <h2>SNS</h2>
 <a href="https://www.instagram.com/lee_jsooo/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
+</a> 
+
+<a href="https://liquipedia.net/overwatch/Agatha">
+  <img src="https://liquipedia.net/images/liquipedia_logo.png" alt="liquidipia" width="40" height="40">
 </a>
 
 ### <h2>Language</h2>
