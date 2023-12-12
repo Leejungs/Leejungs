@@ -18,10 +18,14 @@
 </a>
 
 ● Programming language learned<br>
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/> 
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/> <br>
-<img src="https://img.shields.io/badge/Eclipse IDE-black?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
-<img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Visual Studio-black?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
+<img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=A8B9CC"/> 
+<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PyCharm-gray?style=flat&logo=PyCharm&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=4479A1"/> <br>
+<img src="https://img.shields.io/badge/Eclipse IDE-gray?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-gray?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Visual Studio-gray?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
+<img src="https://img.shields.io/badge/Anaconda-gray?style=flat&logo=Anaconda&logoColor=44A833"/>
+<img src="https://img.shields.io/badge/GNU Bash-gray?style=flat&logo=GNU Bash&logoColor=4EAA25"/>
