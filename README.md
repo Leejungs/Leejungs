@@ -21,7 +21,7 @@
   <img src="https://liquipedia.net/images/liquipedia_logo.png" alt="liquidipia" width="40" height="40">
 </a>
 
-### <h2>Language</h2>
+### <h2>🪄Language</h2>
 ● Programming language learned<br>
 <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=A8B9CC"/> 
@@ -35,5 +35,5 @@
 <img src="https://img.shields.io/badge/Anaconda-gray?style=flat&logo=Anaconda&logoColor=44A833"/>
 <img src="https://img.shields.io/badge/GNU Bash-gray?style=flat&logo=GNU Bash&logoColor=4EAA25"/>
 
-### <h2>My GitHub information</h2> 
+### <h2>🪄My GitHub information</h2> 
 ![Leejungs GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejungs&show_icons=true&theme=slateorange)
