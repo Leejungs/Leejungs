@@ -1,4 +1,4 @@
-### <h1>Welcome my Profile👋</h1>
+### <h1>Welcome to my Profile👋</h1>
 
 
 ### <h2>Introducing myself</h2>
@@ -12,7 +12,7 @@
 ● 🎮 게임하는 것도 되게 좋아합니다.<br>
 ● ⛷️ 스노우보드 타는 걸 되게 좋아해서 제일 좋아하는 계절도 겨울입니다.
 
-### <h2>SNS</h2>
+### <h2>SNS & Profile</h2>
 <a href="https://www.instagram.com/lee_jsooo/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a> 
