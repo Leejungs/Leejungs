@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a>
 
-● Programming language learned<br>
+### Programming language learned<br>
 <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=A8B9CC"/> 
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
