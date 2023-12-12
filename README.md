@@ -12,8 +12,8 @@
 ● 🎮 게임하는 것도 되게 좋아합니다.<br>
 ● ⛷️ 스노우보드 타는 걸 되게 좋아해서 제일 좋아하는 계절도 겨울입니다.
 
-### 프로게이머
-[이미지 이름][(https://www.instagram.com/lee_jsooo/)https://www.instagram.com/lee_jsooo/)]
-<img src="https://www.instagram.com/lee_jsooo/)https://www.instagram.com/lee_jsooo/">
+### SNS
+![텍스트](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)
+![텍스트](https://www.instagram.com/lee_jsooo/)
 
 
