@@ -17,7 +17,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a>
 
-### Programming language learned
-
+● Programming language learned<br>
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
-
+<img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/> 
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1"/> <br>
+<img src="https://img.shields.io/badge/Eclipse IDE-black?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Visual Studio-black?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
