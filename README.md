@@ -13,7 +13,6 @@
 ● ⛷️ 스노우보드 타는 걸 되게 좋아해서 제일 좋아하는 계절도 겨울입니다.
 
 ### SNS
-[![텍스트](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/lee_jsooo/)
 <a href="https://www.instagram.com/lee_jsooo/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a>
