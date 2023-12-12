@@ -15,5 +15,5 @@
 ### 프로게이머
 [이미지 이름][(https://www.instagram.com/lee_jsooo/)https://www.instagram.com/lee_jsooo/)]
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
-<img src="이미지 URL" width="30%" height="30%">
+
 
