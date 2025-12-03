@@ -1,8 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jeongsoo Lee.</h1>
+<h1 align="center">👋 Hi, I'm Jeongsoo Lee</h1>
 
-<p align="center">
-I'm studying AI Software at Dongyang Mirae University and building AI-based web services in Seoul.
-</p>
 
 <h2 align="center">Main Stack</h2>
 
