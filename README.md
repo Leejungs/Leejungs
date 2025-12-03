@@ -34,10 +34,3 @@
 - Bootstrap, Chart.js  
 
 
----
-
-## 📫 Contact
-- Instagram: https://www.instagram.com/lee_jsooo/  
-- Email: (원하면 넣을게)
-
----
