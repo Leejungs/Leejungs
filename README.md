@@ -13,11 +13,11 @@
 
 ---
 
-## 🧪 Activity
+## Activity
 - 
 ---
 
-## 🏆 Competition
+## Competition
 ---
 
 
