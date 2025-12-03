@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jeongsoo Lee</h1>
 
 
-<h2 align="center">Main Stack</h2>
+<h2>Main Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
