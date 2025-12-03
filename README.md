@@ -17,7 +17,9 @@
 ---
 
 ## Activity
-- 
+- 양동이 챗봇 – 동양미래대학교 전용 AI 챗봇 | [GitHub Repository](https://github.com/Leejungs/yangdongyi_chatbot) · [시연 영상](https://youtu.be/vEY0l_NksHE)
+
+
 ---
 
 ## Competition
