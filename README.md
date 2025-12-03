@@ -1,5 +1,5 @@
-<h2>👋 Hi, I'm Jeongsoo Lee.  
-I'm studying AI Software at Dongyang Mirae University and building AI-based web services in Seoul.</h2>
+<h2>👋 Hi, I'm Jeongsoo Lee.</h2>
+I'm studying AI Software at Dongyang Mirae University and building AI-based web services in Seoul.
 
 
 <h2 align="center">Main Stack</h2>
