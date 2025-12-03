@@ -8,29 +8,17 @@
 
 ---
 
-## 👋 About Me
-- Hi, I'm **Jeongsoo Lee**.  
-- AI Software student at **Dongyang Mirae University**  
-- Based in **Seoul, South Korea**  
-- Building **AI-based web services, chatbots, and RAG systems**
+## Education
+- 동양미래대학교 AI소프트웨어과** | 2023.03 ~ 2026.02 (졸업 예정)
 
 ---
 
 ## 🧪 Activity
-- **동양미래대학교 AI소프트웨어과** | 2023.03 ~ 2026.02 (졸업 예정)
+- 
 ---
 
 ## 🏆 Competition
 ---
 
-## 🧑‍💻 Tech Stack
-**Backend**
-- Python, Flask, FastAPI  
-- LangChain, OpenAI API, RAG  
-- MySQL, MongoDB, ChromaDB
-
-**Frontend**
-- HTML/CSS/JavaScript  
-- Bootstrap, Chart.js  
 
 
