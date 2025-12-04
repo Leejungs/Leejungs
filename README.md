@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi, I'm Jeongsoo Lee</h1>
-
-
 <h2>Main Stack</h2>
 
 <p>
